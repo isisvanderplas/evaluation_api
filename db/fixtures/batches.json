@@ -1,0 +1,180 @@
+[
+  {
+    "number": 12,
+    "startDate": "2017-11-23",
+    "endDate": "2018-01-13",
+    "students": [
+      {
+        "name": "Isis",
+        "picture": "something.jpg",
+        "evaluation": [
+          {
+            "colorCode": "yellow",
+            "evaluationDate": "2017-12-02",
+            "remark":""
+          },
+          {
+            "colorCode": "yellow",
+            "evaluationDate": "2017-12-03",
+            "remark":""
+          }
+        ]
+      },
+      {
+        "name": "Gabrijella",
+        "picture": "something.jpg",
+        "evaluation": [
+          {
+            "colorCode": "yellow",
+            "evaluationDate": "2017-12-02",
+            "remark":""
+          },
+          {
+            "colorCode": "green",
+            "evaluationDate": "2017-12-03",
+            "remark":""
+          }
+        ]
+
+      },
+      {
+        "name": "Lara Anna",
+        "picture": "something.jpg",
+        "evaluation": [
+          {
+            "colorCode": "green",
+            "evaluationDate": "2017-12-02",
+            "remark":""
+          },
+          {
+            "colorCode": "red",
+            "evaluationDate": "2017-12-03",
+            "remark":""
+          }
+        ]
+      },
+      {
+        "name": "Daniil",
+        "picture": "something.jpg",
+        "evaluation": [
+          {
+            "colorCode": "green",
+            "evaluationDate": "2017-12-02",
+            "remark":""
+          },
+          {
+            "colorCode": "green",
+            "evaluationDate": "2017-12-03",
+            "remark":""
+          }
+        ]
+      },
+      {
+        "name": "Robin",
+        "picture": "something.jpg",
+        "evaluation": [
+          {
+            "colorCode": "yellow",
+            "evaluationDate": "2017-12-02",
+            "remark":""
+          },
+          {
+            "colorCode": "yellow",
+            "evaluationDate": "2017-12-03",
+            "remark":""
+          }
+        ]
+      }
+    ]
+  },
+  {
+  "number": 13,
+  "startDate": "2018-02-01",
+  "endDate": "2018-03-18",
+  "students": [
+    {
+      "name": "Ha",
+      "picture": "something.jpg",
+      "evaluation": [
+        {
+          "colorCode": "green",
+          "evaluationDate": "2017-11-02",
+          "remark":""
+        },
+        {
+          "colorCode": "green",
+          "evaluationDate": "2017-11-03",
+          "remark":""
+        }
+      ]
+    },
+    {
+      "name": "Anna",
+      "picture": "something.jpg",
+      "evaluation": [
+        {
+          "colorCode": "red",
+          "evaluationDate": "2017-11-02",
+          "remark":""
+        },
+        {
+          "colorCode": "yellow",
+          "evaluationDate": "2017-11-03",
+          "remark":""
+        }
+      ]
+
+    },
+    {
+      "name": "Raita",
+      "picture": "something.jpg",
+      "evaluation": [
+        {
+          "colorCode": "green",
+          "evaluationDate": "2017-11-02",
+          "remark":""
+        },
+        {
+          "colorCode": "yellow",
+          "evaluationDate": "2017-11-03",
+          "remark":""
+        }
+      ]
+    },
+    {
+      "name": "Ha",
+      "picture": "something.jpg",
+      "evaluation": [
+        {
+          "colorCode": "yellow",
+          "evaluationDate": "2017-11-02",
+          "remark":""
+        },
+        {
+          "colorCode": "green",
+          "evaluationDate": "2017-11-03",
+          "remark":""
+        }
+      ]
+    },
+    {
+      "name": "Robin",
+      "picture": "something.jpg",
+      "evaluation": [
+        {
+          "colorCode": "yellow",
+          "evaluationDate": "2017-11-02",
+          "remark":""
+        },
+        {
+          "colorCode": "green",
+          "evaluationDate": "2017-11-03",
+          "remark":""
+        }
+      ]
+    }
+  ]
+}
+
+
+]
